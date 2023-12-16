@@ -23,3 +23,7 @@ pip install selenium webdriver_manager
   chrome_options.add_argument("--profile-directory=Profile 1")
   ```
 4. **Download Delay:** Modify According to your internet speed, pc config. `default=3`
+
+## Note
+- Keep other Chrome windows close
+- Headless not supported
